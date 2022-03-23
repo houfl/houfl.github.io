@@ -9,5 +9,5 @@ linux硬件基础
 
 Linux运维之硬件篇
 ----------------------
-![image](https://github.com/houfl/houfl.github.io/blob/main/images/word-image.png)
+![image](https://github.com/houfl/houfl.github.io/images/word-image.png)
 图-台式机电脑
