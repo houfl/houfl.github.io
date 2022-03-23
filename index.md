@@ -15,7 +15,7 @@ Linux运维之硬件篇
 -----------------
 笔记本电脑以其简便、小巧、携带方便等优点被更多人选择使用，早期多用于办公，现在已经逐步走进千家万户，成为国内计算机用户的主流选择、和早期不同的是，现在笔记本电脑的部件参数配置也可以很高，并且价格已经下降到普通用户可以接受的程度了。
 
-![image](https://github.com/houfl/houfl.github.io/blob/main/images/_20220323143904.png)
+![image](https://github.com/houfl/houfl.github.io/blob/main/images/笔记本.png)
 图-笔记本电脑
 
 计算机主机内部结构如下图所示：
