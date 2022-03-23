@@ -97,7 +97,7 @@ Linux运维之硬件篇
 
 刀片式服务器如下图所示：
 
-![image](https://github.com/houfl/houfl.github.io/blob/main/images/刀片式服务器.png)
+![image](https://github.com/houfl/houfl.github.io/blob/main/images/刀式服务器.png)
 
 图-刀片式服务器
 
@@ -204,7 +204,7 @@ IBM服务器质量好，但价格贵，互联网公司不太常用，仅作了�
 
 典型的电源图片如下图：
 
-![image](https://github.com/houfl/houfl.github.io/blob/main/images/图-服务器电源.png)
+![image](https://github.com/houfl/houfl.github.io/blob/main/images/服务器电源.png)
 
 图-服务器电源
 
